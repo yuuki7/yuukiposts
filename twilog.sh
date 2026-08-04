@@ -2,6 +2,7 @@
 perl -MText::CSV_XS=csv -MHTML::Entities=decode_entities -E '
   $csv = csv(in => shift, encoding => "utf-8");
   for $row (reverse @$csv) {
+    $row->[1] =~ m{^https://x.com/yuuki26/} or next;
     ($year) = $row->[2] =~ /^(\d{4})/;
     $body = decode_entities($row->[3]);
     $body =~ s/\n/\x{2424}/g;
