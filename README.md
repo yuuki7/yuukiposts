@@ -31,4 +31,4 @@ yuuki's X posts
 
 ## License
 
-All of yuuki's content on X (Twitter), Threads, Bluesky, and Mastodon (including text, images, videos, and audio) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+All of yuuki's content on X (Twitter), Threads, Bluesky, and Mastodon (including text, images, videos, and audio) is available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
