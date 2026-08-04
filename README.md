@@ -26,7 +26,6 @@ yuuki's X posts
     * [Archive.today](https://archive.today/https://twitter.com/yuuki___0517/status/*)
     * [Internet Archive](https://web.archive.org/web/*/https://twitter.com/yuuki___0517/status/*)
     * [Pawoo](https://pawoo.net/@yuuki___0517)
-    * [FC2 Blog](https://yuukishogi.blog.fc2.com/)
 
 </details>
 
