@@ -15,7 +15,6 @@ perl -MText::CSV_XS=csv -MHTML::Entities=decode_entities -E '
       encoding => "utf-8",
       sep_char => "\t",
       eol => "\n",
-      quote_char => undef,
       out => "$year.tsv",
     );
   }
