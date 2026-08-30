@@ -13,7 +13,7 @@ yuuki's X posts
 
 ## Archives
 
-- [Twilog](https://twilog.togetter.com/yuuki26) ([jpn](https://twilog.togetter.com/yuuki29))
+- [Twilog](https://twilog.togetter.com/yuuki26?key=2ce605207b) ([jpn](https://twilog.togetter.com/yuuki29?key=ea7bcc23d9))
 - [Posfie](https://posfie.com/@yuuki26) ([jpn](https://posfie.com/@yuuki29))
 - [Archive.today](https://archive.today/https://x.com/yuuki26/status/*) ([jpn](https://archive.today/https://x.com/yuuki29/status/*))
 
